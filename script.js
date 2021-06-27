@@ -17,6 +17,8 @@ function user_bg_gradient(argument) {
 		css.textContent = body.style.background + ";";
 
 }
+
+// Use text-content only  
 //todo since gradient has syntax 
  //color= "linear-gradient(direction, 1stcolor , 2ndcolor)"
 
